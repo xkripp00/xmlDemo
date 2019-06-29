@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:meniny xmlns:ns2="meniny">
+    <meniny>
+        <zaznam>
+            <den>DEN</den>
+            <SK>SK</SK>
+            <SKd>SKD</SKd>
+            <SKsviatky>SKSV</SKsviatky>
+            <CZsviatky>CZSV</CZsviatky>
+            <HU>HU</HU>
+            <PL>PL</PL>
+            <AT>AT</AT>
+        </zaznam>
+        <zaznam>
+            <den>DEN2</den>
+            <SK>SK</SK>
+            <CZsviatky>CZSV2</CZsviatky>
+            <PL>PL</PL>
+            <AT>AT2</AT>
+        </zaznam>
+    </meniny>
+</ns2:meniny>
